@@ -1,6 +1,6 @@
 /* Fibonacci Series c language */
 #include<stdio.h>
-#include<stdlib.h> 
+
 int main()
 {
    int n, first = 0, second = 1, next, c;
@@ -22,5 +22,5 @@ int main()
       printf("%d number is == \n",next);
    }
 
-   return 0;
+   return 1;
 }
