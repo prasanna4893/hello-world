@@ -1,6 +1,6 @@
 /* Fibonacci Series c language */
 #include<stdio.h>
- 
+#include<stdlib.h> 
 int main()
 {
    int n, first = 0, second = 1, next, c;
