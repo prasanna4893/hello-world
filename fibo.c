@@ -21,6 +21,6 @@ int main()
       }
       printf("%d number is \n",next);
    }
- 
+ printf("\n helloo..");
    return 0;
 }
