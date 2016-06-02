@@ -10,6 +10,7 @@ int main()
    printf("\n heyyy");
    printf("First %d terms of Fibonacci series are :-\n",n);
    printf("\n enddd....byee")
+   printf("\n enddd....byee")
    for ( c = 0 ; c < n ; c++ )
    {
       if ( c <= 1 )
