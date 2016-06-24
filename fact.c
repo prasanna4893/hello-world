@@ -2,10 +2,10 @@
  
 int main()
 {
-  int c, n=9, fact = 1;
+  int c, n, fact = 1;
  
-  //printf("Enter a number to calculate it's factorial\n");
-  //scanf("%d", &n);
+  printf("Enter a number to calculate it's factorial\n");
+  scanf("%d", &n);
  
   for (c = 1; c <= n; c++)
     fact = fact * c;
