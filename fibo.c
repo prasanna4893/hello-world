@@ -19,7 +19,7 @@ int main()
          first = second;
          second = next;
       }
-      printf("%d number is == \n",next);
+      printf("\n %d",next);
    }
 
    return 0;
